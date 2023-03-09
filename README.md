@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Lopez</h1>
 <h3 align="center">A passionate frontend developer, backend developer and mobile developer from Colombia,</h3>
 
-- 🔭 I’m currently working on [Th1rft](https://www.dznchase.com/thr1ft-market)
-
 - 🌱 I’m currently learning **Python,AWS, English**
 
 - 👯 I’m looking to collaborate on **Mobile Proyects, frontend**
