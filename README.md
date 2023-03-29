@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cristian Lopez</h1>
+<h1 align="center">Hi 👋, I'm Cristian Lopez. Senior Developer</h1>
 <h3 align="center">A passionate frontend developer, backend developer and mobile developer from Colombia,</h3>
 
 - 🌱 I’m currently learning **Python,AWS, English**
 
-- 👯 I’m looking to collaborate on **Mobile Proyects, frontend**
+- 👯 I’m looking to collaborate on **Mobile Proyects, frontend, and backend**
 
 - 👨‍💻 All of my projects are available at [clopezdev.com (in progress)](clopezdev.com "in progress")
 
