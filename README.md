@@ -9,7 +9,6 @@
 - Develop production-ready SaaS platforms
 - Optimize performance for CPU-based AI infrastructure
 
----
 
 ##  Current Focus
 
@@ -20,4 +19,3 @@
 - CPU-optimized model deployment
 - Interview AI copilots
 
----
