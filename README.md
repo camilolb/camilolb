@@ -17,5 +17,4 @@
 - Open-source AI infrastructure
 - AI automation systems
 - CPU-optimized model deployment
-- Interview AI copilots
 
